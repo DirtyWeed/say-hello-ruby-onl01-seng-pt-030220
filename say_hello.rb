@@ -1,3 +1,2 @@
-def say_hello(name)
-  hello
+def say_hello
 end
